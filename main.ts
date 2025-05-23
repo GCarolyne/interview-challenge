@@ -52,7 +52,6 @@ function buildGame(): Board {
       }
     }
     board.push(boardRow);
-    console.log("boards", board);
   }
   return board;
 }
